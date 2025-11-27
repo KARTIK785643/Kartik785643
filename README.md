@@ -106,14 +106,10 @@ These projects demonstrate your deeper MERN skills:
 
 ![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik785643&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik785643&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik785643&layout=compact&theme=tokyonight&hide=html,css)
 
 ---
 
-## 🔥 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartik785643&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me  
 - 📩 **Email:** kartik4023@gmail.com  
