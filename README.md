@@ -91,15 +91,6 @@ A complete end-to-end quiz system with full authentication & backend APIs.
 
 
 
-## 📊 GitHub Stats  
-
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik785643&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik785643&layout=compact&theme=tokyonight&hide=html,css)
-
----
-
-
 ## 📫 Connect With Me  
 - 📩 **Email:** kartik4023@gmail.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/kartik-43a705258/  
