@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
-<h3 align="center">Full Stack developer | Final Year B.Tech CSE Student</h3>
+<h3 align="center">Full Stack MERN Developer | Final Year B.Tech CSE Student</h3>
 
 ---
 
 ## 🔥 About Me  
-- 👨‍💻 Passionate Full Stack Developer with strong knowledge of **MERN, Python, and DSA**  
-- 🎓 Final-year B.Tech CSE student from Jammu & Kashmir  
-- 💡 Solved 400+ problems on LeetCode & GFG  
-- 🚀 Built real-world projects including **Quiz Generator, Country Explorer, Movie Recommendation System & ML Projects**  
-- 🌱 Currently learning **System Design & Advanced Backend**  
-- 💼 Looking for **SDE / Full-Stack Developer Internship or Full-time role**  
-- 💬 Ask me about **C++, JS, MERN, Python, APIs, Databases, and Cloud basics**  
+I am a **Full Stack Developer** skilled in building scalable web applications using the **MERN Stack**, along with strong foundations in **Python, Data Structures, Machine Learning, and Backend Systems**.  
+
+I enjoy converting ideas into real working products, building clean APIs, designing responsive UIs, and solving real-world problems with technology.
+
+- 👨‍💻 Strong in **MongoDB, Express, React, Node.js, REST APIs**  
+- 🎯 Experienced with **full authentication systems, role-based access, backend routing, and database schemas**  
+- 🚀 Built **10+ full-stack and ML projects**  
+- 💼 Seeking **SDE / MERN Stack Developer Internship or Full-time roles**  
 
 ---
 
@@ -22,10 +23,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-orange?logo=javascript)
 
 ### **Frontend**
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![HTML](https://img.shields.io/badge/HTML-red?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
@@ -44,49 +44,63 @@
 
 ---
 
-## 🚀 Featured Projects  
+# 🚀 Featured Full Stack & ML Projects  
 
-### 🔹 **Quiz Generator Website (Public)**  
-**Tech:** MERN  
+### 🔹 **Quiz Generator Website (MERN)**  
+A complete end-to-end quiz system with full authentication & backend APIs.  
+**Tech:** React, Node.js, Express, MongoDB  
 - Random quiz generation  
-- Leaderboard & Authentication  
-- Clean UI + Backend API  
-👉 Repo: https://github.com/Kartik785643/Quiz-Generator-website  
+- User login/signup  
+- Leaderboard  
+- Secure backend  
+👉 Repo: **https://github.com/Kartik785643/Quiz-Generator-website**
 
 ---
 
 ### 🔹 **Country Explorer**  
-**Tech:** JavaScript  
-- Search any country  
-- Shows flag, currency, population, languages  
-👉 Repo: https://github.com/Kartik785643/Countryexplorer  
+**Tech:** JavaScript, REST API  
+- API-based country search  
+- Shows flags, currency, languages & maps  
+👉 Repo: **https://github.com/Kartik785643/Countryexplorer**
 
 ---
 
-### 🔹 **Telco Customer Churn Analysis**  
-**Tech:** Python, ML, Data Analysis  
-- Predicts customer churn using ML models  
-- Data cleaning, visualization, model training  
-👉 Repo: https://github.com/Kartik785643/Telco-Customer-Churning-Analysis  
+### 🔹 **Telco Customer Churn Analysis (ML Project)**  
+**Tech:** Python, Pandas, Scikit-learn  
+- Churn prediction using ML models  
+- Data cleaning & visualization  
+👉 Repo: **https://github.com/Kartik785643/Telco-Customer-Churning-Analysis**
 
 ---
 
 ### 🔹 **Movie Recommendation System**  
 **Tech:** Python, ML  
-- Content-based filtering  
-- Cosine similarity recommendation  
-👉 Repo: https://github.com/Kartik785643/movie-recommendation  
+- Content-based recommendation  
+- Cosine similarity algorithm  
+👉 Repo: **https://github.com/Kartik785643/movie-recommendation**
 
 ---
 
 ### 🔹 **Fitness Tracker Web App**  
-**Tech:** HTML, CSS, JS  
-- Track workouts  
-- Simple UI  
-👉 Repo: https://github.com/Kartik785643/Fitness_tracker  
+**Tech:** HTML, CSS, JavaScript  
+- Track and manage workouts  
+- Clean UI  
+👉 Repo: **https://github.com/Kartik785643/Fitness_tracker**
 
 ---
 
+## 🔐 Additional Private Projects (High-Level Work)
+These projects demonstrate your deeper MERN skills:
+
+- **Portfolio Website (Frontend + Backend)**  
+- **Travel Web Apps (Yatra + TravelWeb)**  
+- **Full MERN Quiz System (Frontend + Backend)**  
+- **Multiple JS functional applications**  
+
+> These show your skills in **routing, middleware, authentication flows, UI/UX, and backend logic**.  
+> You can provide access to companies if required.
+
+---
 
 ## 📊 GitHub Stats  
 
@@ -96,17 +110,17 @@
 
 ---
 
-## 🔥 Streak Stats  
+## 🔥 GitHub Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartik785643&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me  
-- 📩 Email: **kartik4023@gmail.com**  
-- 💼 LinkedIn: *https://www.linkedin.com/in/kartik-43a705258/*
-- 🌐 Portfolio: *https://kartik-portfolio-jade.vercel.app/*  
+- 📩 **Email:** kartik4023@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/kartik-43a705258/  
+- 🌐 **Portfolio:** https://kartik-portfolio-jade.vercel.app/  
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my GitHub profile!  
-<br>🔔 Open to Internships, SDE roles</h3>
+<h3 align="center">⭐ Thanks for visiting!  
+<br>🔔 Open to SDE Internships, Full Stack Roles & Collaborations</h3>
