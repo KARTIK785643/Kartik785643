@@ -87,18 +87,6 @@
 
 ---
 
-## 🧩 Private Projects (Core Work)
-*(You can give access to recruiters if needed)*
-
-- **Portfolio Website** (Frontend + Backend)  
-- **Travel Web App**  
-- **Complete MERN Quiz App (Frontend + Backend)**  
-- **Yatra Travel Website**  
-- **Multiple JS-based full apps**  
-
-These showcase your skills in **authentication, routing, APIs, backend logic, UI design, and database integration**.
-
----
 
 ## 📊 GitHub Stats  
 
@@ -114,11 +102,11 @@ These showcase your skills in **authentication, routing, APIs, backend logic, UI
 ---
 
 ## 📫 Connect With Me  
-- 📩 Email: **yourmail@gmail.com**  
-- 💼 LinkedIn: *add your LinkedIn link here*  
-- 🌐 Portfolio: *add your hosted portfolio link*  
+- 📩 Email: **kartik4023@gmail.com**  
+- 💼 LinkedIn: *https://www.linkedin.com/in/kartik-43a705258/*
+- 🌐 Portfolio: *https://kartik-portfolio-jade.vercel.app/*  
 
 ---
 
 <h3 align="center">⭐ Thanks for visiting my GitHub profile!  
-<br>🔔 Open to Internships, SDE roles & collaborations</h3>
+<br>🔔 Open to Internships, SDE roles</h3>
