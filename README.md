@@ -89,18 +89,7 @@ A complete end-to-end quiz system with full authentication & backend APIs.
 
 ---
 
-## 🔐 Additional Private Projects (High-Level Work)
-These projects demonstrate your deeper MERN skills:
 
-- **Portfolio Website (Frontend + Backend)**  
-- **Travel Web Apps (Yatra + TravelWeb)**  
-- **Full MERN Quiz System (Frontend + Backend)**  
-- **Multiple JS functional applications**  
-
-> These show your skills in **routing, middleware, authentication flows, UI/UX, and backend logic**.  
-> You can provide access to companies if required.
-
----
 
 ## 📊 GitHub Stats  
 
