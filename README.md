@@ -65,6 +65,14 @@ A complete end-to-end quiz system with full authentication & backend APIs.
 
 ---
 
+### 🔹 **Finance Dashboard UI - FinTrack Lite**
+A clean and interactive finance dashboard built using React, designed to help users track their financial activity, understand spending patterns, and manage transactions efficiently.
+
+**Deployment link**
+https://finance-dashboard-ui-rust.vercel.app/
+
+
+
 ### 🔹 **Telco Customer Churn Analysis (ML Project)**  
 **Tech:** Python, Pandas, Scikit-learn  
 - Churn prediction using ML models  
