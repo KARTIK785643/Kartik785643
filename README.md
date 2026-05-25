@@ -53,7 +53,18 @@ A complete end-to-end quiz system with full authentication & backend APIs.
 - User login/signup  
 - Leaderboard  
 - Secure backend  
-👉 Repo: **https://github.com/Kartik785643/Quiz-Generator-website**
+👉 Repo: **https://quiz-gen-9331.vercel.app/**
+
+---
+
+### 🔹 **Clinic Management and Patient queue management system (MERN)**  
+A complete end-to-end Clinic Management and Patient queue management system system with full authentication & backend APIs.  
+**Tech:** React, Node.js, Express, MongoDB  
+- dashboards (Patient, Doctor, Admin)  
+- User login/signup  
+- bcrypt password hashing  
+- Secure backend  
+👉 Repo: **https://clinic-management-system-gek5.vercel.app/**
 
 ---
 
