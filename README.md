@@ -10,7 +10,7 @@ I enjoy converting ideas into real working products, building clean APIs, design
 
 - 👨‍💻 Strong in **MongoDB, Express, React, Node.js, REST APIs**  
 - 🎯 Experienced with **full authentication systems, role-based access, backend routing, and database schemas**  
-- 🚀 Built **10+ full-stack and ML projects**  
+- 🚀 Built **full-stack and ML projects**  
 - 💼 Seeking **SDE / MERN Stack Developer Internship or Full-time roles**  
 
 ---
