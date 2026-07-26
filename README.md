@@ -3,7 +3,8 @@
 
 ---
 
-## 🔥 About Me  
+## 🔥 About Me -https://kartik-portfolio-jade.vercel.app/
+
 I am a **Full Stack Developer** skilled in building scalable web applications using the **MERN Stack**, along with strong foundations in **Python, Data Structures, and Backend Systems**.  
 
 I enjoy converting ideas into real working products, building clean APIs, designing responsive UIs, and solving real-world problems with technology.
