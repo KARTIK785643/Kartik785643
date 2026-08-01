@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik</h1>
-<h3 align="center">Full Stack MERN Developer | B.Tech CSE Graduate</h3>
+<h3 align="center">Software engineer | Full Stack MERN Developer | B.Tech CSE Graduate</h3>
 
 ---
 
